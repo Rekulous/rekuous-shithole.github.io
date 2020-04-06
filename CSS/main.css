@@ -33,8 +33,7 @@ body {
     color: #00e600;
 }
 
-div
-{
-    object-position: center;
-   
+#parent {
+    width: 30%;
+    margin: 0 auto;
 }

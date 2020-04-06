@@ -1,0 +1,34 @@
+.button2 {
+    background-color: #8533ff;
+    border: none;
+    color: #66ffcc;
+    padding: 10px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button {
+    background-color: #8533ff;
+    border: none;
+    color: #66ffcc;
+    padding: 10px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+body {
+    background-image: url("images/backround.jpg");
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    padding: 0.3em;
+    color: #00e600;
+}

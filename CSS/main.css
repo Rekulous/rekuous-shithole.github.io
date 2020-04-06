@@ -32,3 +32,9 @@ body {
     padding: 0.3em;
     color: #00e600;
 }
+
+div
+{
+    object-position: center;
+   
+}

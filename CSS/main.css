@@ -24,10 +24,12 @@
     cursor: pointer;
 }
 
-#body {
-    background-color: linear-gradient(to right, rgb(6, 250, 59), rgb(0, 238, 255), rgb(216, 20, 216));
+body {
+    background: rgb(0, 250, 62);
+    background: linear-gradient(90deg, rgba(0, 250, 62, 1) 0%, rgba(6, 240, 233, 1) 50%, rgba(255, 0, 249, 1) 100%);
     background-size: cover;
     overflow: hidden;
     text-align: center;
     padding: 0.3em;
+    color: #000000;
 }

@@ -25,7 +25,8 @@
 }
 
 body {
-    background-color: black;
+    background-color: linear-gradient(to right, rgb(6, 250, 59), rgb(0, 238, 255), rgb(216, 20, 216));
+    ;
     background-size: cover;
     overflow: hidden;
     text-align: center;

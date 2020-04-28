@@ -25,7 +25,7 @@
 }
 
 #body {
-    background-color: linear-gradient( rgb(6, 250, 59), rgb(0, 238, 255), rgb(216, 20, 216));
+    background-color: linear-gradient(rgb(6, 250, 59), rgb(0, 238, 255), rgb(216, 20, 216));
     background-size: cover;
     overflow: hidden;
     text-align: center;

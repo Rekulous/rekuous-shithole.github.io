@@ -33,3 +33,7 @@ body {
     padding: 0.3em;
     color: #000000;
 }
+
+div {
+    text-align: center;
+}

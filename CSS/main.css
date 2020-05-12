@@ -42,7 +42,7 @@ body {
     background-size: cover;
     text-align: center;
     padding: 0em;
-    color: #000000;
+    color: #fffafa;
 }
 
 #div2 {
@@ -53,7 +53,7 @@ body {
 
 #bodyham {
     padding: 0em;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     background: #000000;
     background-size: cover;
@@ -65,30 +65,4 @@ body {
     font-style: italic;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
-}
-
-.button3 {
-    box-shadow: inset 0px -50px 50px 50px #f42bff;
-    background: linear-gradient(to bottom, #c52ef7 5%, #ca08fa 100%);
-    background-color: #c52ef7;
-    display: inline-block;
-    cursor: pointer;
-    color: #ffffff;
-    font-family: Impact;
-    font-size: 18px;
-    font-style: italic;
-    padding: 7px 20px;
-    text-decoration: none;
-    text-shadow: 0px -3px 0px #263666;
-    text-align: left;
-}
-
-.button3:hover {
-    background: linear-gradient(to bottom, #ca08fa 5%, #c52ef7 100%);
-    background-color: #ca08fa;
-}
-
-.button3:active {
-    position: relative;
-    top: 1px;
 }

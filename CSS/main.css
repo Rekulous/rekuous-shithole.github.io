@@ -48,6 +48,8 @@ body {
 
 #div2 {
     font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: smaller;
 }
 
 #bodyham {
@@ -57,4 +59,5 @@ body {
     background: rgb(0, 250, 62);
     background: linear-gradient(90deg, rgba(0, 250, 62, 1) 0%, rgba(6, 240, 233, 1) 50%, rgba(255, 0, 249, 1) 100%);
     background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
 }

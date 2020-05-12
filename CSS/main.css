@@ -61,3 +61,10 @@ body {
     background-size: cover;
     font-family: 'Courier New', Courier, monospace;
 }
+
+#div3 {
+    font: small;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}

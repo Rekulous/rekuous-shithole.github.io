@@ -3,5 +3,6 @@
     font-size: x-small;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     width: 100%;
+    text-align: left;
     background: linear-gradient(90deg, rgba(0, 250, 62, 1) 0%, rgba(6, 240, 233, 1) 50%, rgba(255, 0, 249, 1) 100%)
 }

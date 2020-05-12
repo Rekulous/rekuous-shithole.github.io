@@ -13,7 +13,7 @@
             height: 2.36rem;
             transition: background-color 0.2s;
             padding: 5px;
-            float: left;
+            float: right;
         }
         
         #navbarimg:hover {

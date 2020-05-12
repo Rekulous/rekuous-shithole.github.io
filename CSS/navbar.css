@@ -6,6 +6,7 @@
             padding-right: 10px;
             margin-right: 10px;
             float: left;
+            background-size: fill;
         }
         
         #navlogo {
@@ -33,7 +34,7 @@
         }
         
         #navbar>ul>a:hover {
-            background-color: #212121;
+            background-color: #9c8787;
         }
         
         a {

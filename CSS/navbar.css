@@ -1,11 +1,37 @@
 #navbar {
-    color: white;
-    font-size: x-small;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    max-width: fit-content;
-    background-size: cover;
-    text-align: left;
-    background: rgb(0, 127, 250);
-    width: fit-content;
-    background: linear-gradient(90deg, rgba(0, 127, 250, 1) 0%, rgba(240, 6, 6, 1) 50%, rgba(255, 0, 249, 1) 100%);
+    width: 100%;
+    height: 3rem;
+    background-color: #121212;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+#navbarimg {
+    height: 2.36rem;
+    transition: background-color 0.2s;
+    padding: 5px;
+    float: left;
+}
+
+#navbarimg:hover {
+    background-color: #212121;
+}
+
+#navbar>ul>a {
+    float: right;
+    display: block;
+    background-color: #121212;
+    color: #eaeaea;
+    font-family: Roboto, Ariel;
+    text-align: center;
+    padding-top: 0.9rem;
+    width: 150px;
+    height: 2.1rem;
+    transition: background-color 0.2s;
+}
+
+#navbar>ul>a:hover {
+    background-color: #212121;
 }

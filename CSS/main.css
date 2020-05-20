@@ -57,3 +57,8 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
 }
+
+#HTBBadge {
+    width: 17%;
+    margin: 0 auto;
+}

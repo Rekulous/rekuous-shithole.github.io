@@ -1,0 +1,55 @@
+        #navbar {
+            width: 70%;
+            height: 3rem;
+            background-color: rgb(20, 20, 20);
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-right: 10px;
+            float: left;
+            background-size: fill;
+        }
+        
+        #navlogo {
+            height: 2.36rem;
+            transition: background-color 0.2s;
+            padding: 5px;
+            float: right;
+        }
+        
+        #navbarimg:hover {
+            background-color: #212121;
+        }
+        
+        #navbar>ul>a {
+            float: right;
+            display: block;
+            background-color: #121212;
+            color: #eaeaea;
+            font-family: Roboto, Ariel;
+            text-align: center;
+            padding-top: 0.9rem;
+            width: 150px;
+            height: 2.1rem;
+            transition: background-color 0.2s;
+        }
+        
+        #navbar>ul>a:hover {
+            background-color: #9c8787;
+        }
+        
+        a {
+            color: #ececec;
+            text-decoration: none;
+        }
+        
+        #thonkpic {
+            margin: right;
+        }
+        
+        #HomeButton {
+            text-align: left;
+        }
+        
+        #HamGae {
+            text-align: center;
+        }

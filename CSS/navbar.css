@@ -45,4 +45,13 @@
         
         #HomeButton {
             text-align: left;
+            text-decoration: none;
+        }
+        
+        #ReleasesButton {
+            text-decoration: none;
+        }
+        
+        #FAQ {
+            text-decoration: none;
         }

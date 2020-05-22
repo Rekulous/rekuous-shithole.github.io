@@ -28,6 +28,8 @@ body {
     padding: 9px 27px;
     text-decoration: none;
     text-shadow: -6px 4px 0px #333133;
+    opacity: 0.6;
+    cursor: not-allowed;
 }
 
 .DLButton:hover {

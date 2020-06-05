@@ -6,6 +6,13 @@ body {
     color: #fffafa;
 }
 
+@font-face {
+    font-family: 'HACKED';
+    /*a name to be used later*/
+    src: url('/L3xs/Assets/HACKED.ttf');
+    /*URL to font*/
+}
+
 #Devs {
     text-align: center;
     color: rgb(255, 255, 255);
@@ -54,4 +61,9 @@ body {
 
 #Discord {
     float: left;
+}
+
+#funni {
+    text-align: end;
+    font-family: HACKED;
 }

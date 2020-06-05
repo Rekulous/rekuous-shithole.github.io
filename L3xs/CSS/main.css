@@ -9,7 +9,7 @@ body {
 @font-face {
     font-family: 'HACKED';
     /*a name to be used later*/
-    src: url('/L3xs/Assets/HACKED.ttf');
+    src: url('Assets/HACKED.ttf');
     /*URL to font*/
 }
 

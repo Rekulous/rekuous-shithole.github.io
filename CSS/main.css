@@ -123,6 +123,10 @@ canvas{
 #bruh{
  text-decoration: none;
  text-emphasis-color: white;
- font-size: xx-large;
+ font-size: medium;
  font-family: 'Roboto';
+}
+
+#thonkpic{
+    border-radius: 2px;
 }

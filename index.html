@@ -25,10 +25,23 @@
 
 </head>
 
-<body>
+<body onload="main();">
 
     <header>
-      <script>
+        <script>
+            function main(){
+            
+                //setTimeout("playAudio();",20000); //any call to playAudio will make the audio play after a click
+            }
+            
+            document.onclick = function(){
+                document.getElementById("audio").load();
+            }
+            
+            function playAudio(){
+                document.getElementById("audio").play();
+            }
+            
             function git(){
                 window.open("https://github.com/ThonkPT")
             }
@@ -70,7 +83,7 @@
         <p>Doge Coin:DSfFZ2vF4dbUFQduCA4u28XJzGWoCRA11u </p><br>
         <p>ETH:0xbEf4BEc544197Af2169bdCAC0BbeC9eE084c4473</p>
         </div>
-        <iframe width="0" height="0" src="https://www.youtube.com/embed/FgSZ46yRPss?controls=0&start=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe id="audio" width="0" height="0" src="https://www.youtube.com/embed/FgSZ46yRPss?controls=0&start=1&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 </body>
 

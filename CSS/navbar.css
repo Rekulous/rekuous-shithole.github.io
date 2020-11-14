@@ -1,7 +1,7 @@
         #navbar {
             width: 70%;
             height: 3rem;
-            background-color: rgb(20, 20, 20);
+            background-color: #171717;
             padding-left: 10px;
             padding-right: 10px;
             margin-right: 10px;
@@ -18,13 +18,13 @@
         }
         
         #navbarimg:hover {
-            background-color: #212121;
+            background-color: #171717;
         }
         
         #navbar>ul>a {
             float: right;
             display: block;
-            background-color: #121212;
+            background-color: #171717;
             color: #eaeaea;
             font-family: Roboto, Ariel;
             text-align: center;

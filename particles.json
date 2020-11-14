@@ -20,7 +20,7 @@
         "nb_sides": 5
       },
       "image": {
-        "src": "L3xs/Assets/thonk_1_100x100.png",
+        "src": "/L3xs/Assets/thonk_1_100x100.png",
         "width": 100,
         "height": 100
       }

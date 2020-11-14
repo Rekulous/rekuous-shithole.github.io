@@ -1,3 +1,9 @@
+@font-face {
+    font-family: bruv;
+    src: url(https://fonts.googleapis.com/css?family=Comfortaa|Roboto);
+}
+
+
 .button3 {
     background-color: #8533ff;
     border: none;
@@ -73,7 +79,8 @@ body{
 #idktbh{
     text-decoration: none;
     color: #ffffff;
-    font-size: small;
+    font-size: medium;
+    font-family: bruv;
 }
 
 #particles-js{
@@ -112,5 +119,6 @@ canvas{
 #bruh{
  text-decoration: none;
  text-emphasis-color: white;
- 
+ font-size: medium;
+ font-family: bruv;
 }

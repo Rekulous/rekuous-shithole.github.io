@@ -108,3 +108,9 @@ canvas{
     position: fixed;
     z-index: -1;
 }
+
+#bruh{
+ text-decoration: none;
+ text-emphasis-color: white;
+ background-color: white;
+}

@@ -17,14 +17,12 @@
             float: right;
         }
         
-        #navbarimg:hover {
-            background-color: #171717;
-        }
+        
         
         #navbar>ul>a {
             float: right;
             display: block;
-            background:transparent
+            background:transparent;
             color: #eaeaea;
             font-family: Roboto, Ariel;
             text-align: center;
@@ -33,6 +31,8 @@
             height: 2.1rem;
             transition: background-color 0.2s;
         }
+        /**/
+
         
         #navbar>ul>a:hover {
             background:transparent
